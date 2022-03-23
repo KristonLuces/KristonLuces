@@ -1,4 +1,4 @@
-## Hi there, I'm Kriston - aka [CyberFlash] 👋 
+<h1>Hi there, I'm Kriston 👋</h1>
 
 
 ## Graduate, Learning Web Developer, and Aspiring Cybersecurity Engineer!
